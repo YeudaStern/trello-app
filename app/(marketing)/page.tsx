@@ -47,7 +47,7 @@ const MarketingPage = () => {
         "text-sm md:text-xl text-neutral-400 mt-4 max-w-xs md:max-w-2xl text-center mx-auto",
         textFont.className,
       )}>
-       תפו פעולה, ועבדו יחד כדי להגיע לשיאים חדשים של פרודוקטיביות. מהמשרד הביתי ועד למגדלים הגבוהים זוהי הדרך שבה הצוות שלך עובד ביעילות הגבוהה ביותר 
+       שתפו פעולה, ועבדו יחד כדי להגיע לשיאים חדשים של פרודוקטיביות. מהמשרד הביתי ועד למגדלים הגבוהים זוהי הדרך שבה הצוות שלך עובד ביעילות הגבוהה ביותר 
       </div>
       <Button className="mt-6" size="lg" asChild>
         <Link href="/sign-up">
