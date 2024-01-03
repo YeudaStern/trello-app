@@ -40,7 +40,7 @@ const MarketingPage = () => {
              עוזר לצוותים לעבווד ביחד Taskify 
         </h1>
         <div className="text-3xl md:text-6xl bg-gradient-to-r from-fuchsia-600 to-pink-600 text-white px-4 p-2 py-4 rounded-md pb-4 w-fit">
-          work forward.
+          work forward
         </div>
       </div>
       <div className={cn(
